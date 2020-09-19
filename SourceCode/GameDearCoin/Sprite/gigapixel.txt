@@ -1,0 +1,3 @@
+MonedaD-gigapixel.png	320x64 ตัวละ 64x64 เดิม 16x16
+Player-gigapixel.png	288x480 ตัวละ 96x96 เดิม 32x32
+enemy.png		288x480 ตัวละ 96x96 เดิม 32x32
