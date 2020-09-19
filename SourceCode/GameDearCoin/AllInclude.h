@@ -1,0 +1,13 @@
+#pragma once
+#include <iostream>
+#include <SFML/Graphics.hpp>
+#include <SFML/Audio.hpp>
+#include <SFML/Window.hpp>
+#include <sstream>
+#include <vector>
+#include <fstream>//สำหรับเพื่ออ่านข้อมูลและเขียนข้อมูลกับไฟล์
+#include <map>
+#include <algorithm>
+#include <random>
+#include <math.h>
+#include <time.h>
